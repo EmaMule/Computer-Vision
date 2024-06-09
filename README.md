@@ -11,7 +11,6 @@ As backbone models for our "branches" we used most of the state of the art model
 
 ![Model](./imgs/QuintupleModel.png)
 
-
 The generation of the new features was done in two different Colab notebooks:
 
 - Ground Depth Estimation (GroundDepthMap)
