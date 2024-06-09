@@ -15,3 +15,10 @@ The generation of the new features was done in two different Colab notebooks:
 - Ground Semantic Segmentation (GroundSemantic2)
 
 Everything was done using Pytorch Lightning.
+
+
+<figure>
+<center>
+<img src='imgs/Match Example.jpeg' />
+<figcaption>Example of matching</figcaption></center>
+</figure>
