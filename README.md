@@ -14,11 +14,20 @@ The generation of the new features was done in two different Colab notebooks:
 - Ground Depth Estimation (GroundDepthMap)
 - Ground Semantic Segmentation (GroundSemantic2)
 
-Everything was done using Pytorch Lightning.
+Everything was done using Pytorch Lightning in the Google Colab environment.
 
+Everything is available in the CVUSA.ipynb file.
 
-<figure>
-<center>
-<img src='imgs/Match Example.jpeg' />
-<figcaption>Example of matching</figcaption></center>
-</figure>
+![Example Match](./imgs/Example%20Match.jpeg)
+
+*Figure: Example match image.*
+
+![Ground Segmentation](./imgs/GroundSegmentation.jpeg)
+
+*Figure: Example Ground Segmentation image.*
+
+![Ground Depth Estimation](./imgs/GroundDepth.jpeg)
+
+*Figure: Example Ground Depth Estimation image.*
+
+Enriched Dataset available at: https://drive.google.com/file/d/11DR7zhd6wchdyt8DSkTY2JGgf_jrtf1D
