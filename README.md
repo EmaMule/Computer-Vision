@@ -18,7 +18,7 @@ Everything was done using Pytorch Lightning in the Google Colab environment.
 
 Everything is available in the CVUSA.ipynb file.
 
-![Example Match]('./imgs/MatchExample.jpeg')
+![Example Match](./imgs/MatchExample.jpeg)
 
 *Figure: Example match image.*
 
