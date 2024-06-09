@@ -9,7 +9,7 @@ Following the feature-enrichment approach of the paper "A Semantic Segmentation-
 
 As backbone models for our "branches" we used most of the state of the art models, in particular VGG16, ResNet (in the 50, 101 and 152 versions) and SAIG, a transformer-based model for dealing that proved to be quite effective.
 
-![Model](./imgs/QuintupleModel.jpeg)
+![Model](./imgs/QuintupleModel.png)
 
 
 The generation of the new features was done in two different Colab notebooks:
