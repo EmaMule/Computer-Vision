@@ -20,7 +20,7 @@ The generation of the new features was done in two different Colab notebooks:
 
 Everything was done using Pytorch Lightning in the Google Colab environment.
 
-Everything is available in the CVUSA.ipynb file.
+Everything is available in the CVUSA.ipynb file, where we explain step by step our work (in a report-like format).
 
 ![Example Match](./imgs/MatchExample.jpeg)
 
