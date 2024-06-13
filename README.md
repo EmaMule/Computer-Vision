@@ -35,3 +35,5 @@ Everything is available in the CVUSA.ipynb file, where we explain step by step o
 *Figure: Example Ground Depth Estimation image.*
 
 Enriched Dataset available at: https://drive.google.com/file/d/11DR7zhd6wchdyt8DSkTY2JGgf_jrtf1D
+
+Weights for the quintuple model available at: https://drive.google.com/drive/folders/1-EWmtYmz1XGtye7oM_7fexbQN8Mlt966?usp=drive_link
