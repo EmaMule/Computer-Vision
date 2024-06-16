@@ -1,4 +1,5 @@
 # Computer-Vision
+
 The task of Ground-to-Aerial matching caught our attention for several reasons.
 
 Primarily, we were intrigued to delve into our first work in the field of Information Retrieval and multi-view and cross-domain image analysis. The prospect of addressing a novel challenge within this domain was exciting and offered the opportunity to contribute meaningfully to the development of new methodologies and technologies.
@@ -11,7 +12,7 @@ As backbone models for our "branches" we used most of the state of the art model
 
 ![Model](./imgs/QuintupleModel.png)
 
-*Figure: Quintuple Model - combines all features.*
+_Figure: Quintuple Model - combines all features._
 
 The generation of the new features was done in two different Colab notebooks:
 
@@ -22,17 +23,17 @@ Everything was done using Pytorch Lightning in the Google Colab environment.
 
 The Branches, Models, training pipeline and much more is available in the CVUSA.ipynb file, where we explain step by step our work (in a report-like format).
 
-![Example Match](./imgs/MatchExample.jpeg)
+![Example Match](./imgs/NewExampleMatch.jpeg)
 
-*Figure: Example match image.*
+_Figure: Example match image._
 
 ![Ground Segmentation](./imgs/GroundSegmentation.jpeg)
 
-*Figure: Example Ground Segmentation image.*
+_Figure: Example Ground Segmentation image._
 
 ![Ground Depth Estimation](./imgs/GroundDepth.jpeg)
 
-*Figure: Example Ground Depth Estimation image.*
+_Figure: Example Ground Depth Estimation image._
 
 Enriched Dataset available at: https://drive.google.com/file/d/11DR7zhd6wchdyt8DSkTY2JGgf_jrtf1D
 
