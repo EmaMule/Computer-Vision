@@ -23,7 +23,7 @@ Everything was done using Pytorch Lightning in the Google Colab environment.
 
 The Branches, Models, training pipeline and much more is available in the CVUSA.ipynb file, where we explain step by step our work (in a report-like format).
 
-![Example Match](./imgs/NewExampleMatch.jpeg)
+![Example Match](./imgs/NewExampleMatch.jpg)
 
 _Figure: Example match image._
 
