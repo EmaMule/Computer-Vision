@@ -36,6 +36,6 @@ The Branches, Models, training pipeline and much more is available in the CVUSA.
 
 Enriched Dataset available at: https://drive.google.com/file/d/11DR7zhd6wchdyt8DSkTY2JGgf_jrtf1D
 
-Weights for the quintuple model available at: https://drive.google.com/drive/folders/1-EWmtYmz1XGtye7oM_7fexbQN8Mlt966?usp=drive_link
+Weights for the quintuple model available at: https://drive.google.com/file/d/1-uxzhqa3oLiqu1AQRMAFlfj_6g2P5yiE/view?usp=drive_link
 
 Slides for presentation available at: https://docs.google.com/presentation/d/123IX02QWFkn-TUuQpxf5pWNrqhjrHlQN3qH89fbYC_U/edit?usp=sharing
