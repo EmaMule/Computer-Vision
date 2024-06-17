@@ -37,6 +37,6 @@ _Figure: Example Ground Depth Estimation image._
 
 Enriched Dataset available at: https://drive.google.com/file/d/11DR7zhd6wchdyt8DSkTY2JGgf_jrtf1D
 
-Weights for the quintuple model available at: https://drive.google.com/file/d/1-uxzhqa3oLiqu1AQRMAFlfj_6g2P5yiE/view?usp=drive_link
+Weights for the quintuple model available at: https://drive.google.com/file/d/1-pZ2Ok5l8jtUdTTxIAqffuzmT-IQCeJK/view?usp=sharing
 
 Slides for presentation available at: https://docs.google.com/presentation/d/123IX02QWFkn-TUuQpxf5pWNrqhjrHlQN3qH89fbYC_U/edit?usp=sharing
